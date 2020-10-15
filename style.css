@@ -1,0 +1,18 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.text__container {
+  text-align: center;
+  font-size: 25px;
+  margin: 40px;
+}
+
+.buttons {
+  margin: 0 auto;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
